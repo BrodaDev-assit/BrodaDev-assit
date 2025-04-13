@@ -40,7 +40,7 @@ I'm here to:
 📫 Contact
 
 For support, access requests, or collaboration, reach out to:  
-👨‍💻 [@Brodabarnabas31](https://github.com/Brodabarnabas31)
+👨‍💻 [@Brodabarnabas](https://github.com/Brodabarnabas)
 
 ---
 
