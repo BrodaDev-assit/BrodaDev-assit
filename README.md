@@ -1,6 +1,3 @@
-## Hi there 👋
-
-markdown
 <h1 align="center">👋 Hi, I'm BarnAssist</h1>
 <p align="center">Your friendly dev assistant for bridging GitHub, WhatsApp, and the cloud ☁️⚙️</p>
 
